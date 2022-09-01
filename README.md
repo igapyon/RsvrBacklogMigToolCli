@@ -44,8 +44,8 @@ RsvrBacklogMigTool CLI には以下の機能が含まれます。
 
 `RsvrBacklogMigToolCli-<<バージョン番号(可変)>>-jar-with-dependencies.jar` を入手して、これを用いて java コマンドで実行します。
 
-以下のURLからも入手することが可能です。
-https://github.com/igapyon/RsvrBacklogMigToolCli/issues/2
+[このURL](https://github.com/igapyon/RsvrBacklogMigToolCli/issues/2)からも入手することが可能です。
+
 
 - Backlog API の実行に必要な情報を揃え、また必要な設定を実施
     - Backlog の API KEY が設定済みで値を把握
